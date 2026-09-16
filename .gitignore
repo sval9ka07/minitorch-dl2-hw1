@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+minitorch-env-311/
 
 # Spyder project settings
 .spyderproject
